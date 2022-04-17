@@ -1,0 +1,63 @@
+[HYPERS]
+clustering_lambda = 0.324
+token_probability_threshold = 0.0128
+max_num_clusters = 50
+distance_metric = cosine
+min_cluster_size = 50
+merge_close_clusters_max_iterations = 1
+merge_close_clusters_lambda_fraction = 0.412
+max_clustering_time = 7200
+batch_size = 150000
+algorithm = <class 'fanatic.clustering.fanatic.FanaticClusterModel'>
+
+[GENERAL_ARGS]
+data_files = ['data/RS_2017-11.zst']
+num_docs_read = None
+subreddit_labels_file = data/subreddit_labels.json
+subreddit_noise_percentage = 0.5
+seed_data_subsample = 42
+embedding_model_file = data/w2v_reddit_s300_w5_sg1_RS_2017-11.txt
+min_valid_tokens = 3
+clustering_lambda = 0.324
+token_probability_threshold = 0.0128
+distance_metric = cosine
+max_num_clusters = 50
+min_cluster_size = 50
+merge_close_clusters_max_iterations = 1
+merge_close_clusters_lambda_fraction = 0.412
+max_clustering_time = 7200
+batch_size = 150000
+num_clustering_seed_jobs = 1
+clustering_seed = 42
+output_dir = output
+flag_save_clusteringmodel = False
+job_seed = 15795
+
+[CLUSTER_STATS]
+cluster_time = 60.05189085006714
+total_number_of_clusters = 50
+cluster_size_quartile_min = 127
+cluster_size_quartile_q1 = 214
+cluster_size_quartile_median = 357
+cluster_size_quartile_q3 = 588
+cluster_size_quartile_max = 1943
+num_total_documents = 28583
+num_coherent_labels = 6155
+coherent_labels_fraction = 0.2153377881957807
+num_docs_clustered = 24298
+docs_clustered_fraction = 0.8500857152853094
+num_tp = 5744
+tp_fraction = 0.20095861176223628
+num_fp = 18554
+fp_fraction = 0.6491271035230731
+num_tn = 3874
+tn_fraction = 0.13553510828114615
+num_fn = 411
+fn_fraction = 0.014379176433544414
+pseudo_precision = 0.23639805745328835
+pseudo_recall = 0.9332250203086921
+pseudo_f1 = 0.37723705382064165
+
+[METRICS]
+ami = 0.2650986008049247
+

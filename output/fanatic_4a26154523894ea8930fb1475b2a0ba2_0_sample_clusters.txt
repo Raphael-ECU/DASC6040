@@ -1,0 +1,132 @@
+*** Cluster 0 ***
+compared black incredibly better men spoken talented opie __NUMBER__ retarded -> NOISE_LABEL
+natural fitness crash year surgeries __NUMBER__ multiple car transformation -> progresspics
+cal workout soccer months diet created lifting __NUMBER__ basketball days everyday weight key gt vs -> progresspics
+teens __NUMBER__ born next year halloween last -> NOISE_LABEL
+america opiates __NUMBER__ true consumes worlds supply -> NOISE_LABEL
+nuclear power __NUMBER__ lifetime storm bombs -> NOISE_LABEL
+__NUMBER__ shortly june somewhere quake taken -> NOISE_LABEL
+__NUMBER__ go exactly sleep time used waking -> NOISE_LABEL
+song old times many ant year __NUMBER__ cry -> NOISE_LABEL
+__NUMBER__ nj seen friendly neighbor pics -> NOISE_LABEL
+
+*** Cluster 1 ***
+shield person option hide first used -> NOISE_LABEL
+enemy certain even taunt never give win -> NOISE_LABEL
+cute chicks princess whore looks crack preference like -> NOISE_LABEL
+kevin wait reigns anthony forward years __NUMBER__ spacey roman rapp come molested really -> NOISE_LABEL
+secrets waiting girlfriends sitting bigger outside seem creeps secret guys victoria inside multiple wives actually one like -> NOISE_LABEL
+talking room vicki like peggy -> NOISE_LABEL
+like feel narcissist vent sometimes -> NOISE_LABEL
+think whenever see pregnant sex lady -> NOISE_LABEL
+think people smashed many wonder bits lives friendly paedophiles perverts -> NOISE_LABEL
+middle dom exist manager really -> NOISE_LABEL
+
+*** Cluster 2 ***
+grown september city opportunities grow weeks medicinal edmonton marijuana video late full licence market canada health cannabis legally __NUMBER__ away first company gave feels -> CanadaWeedStocks
+dumb might advice sound -> NOISE_LABEL
+wife pay marry get without rid alimony riddle -> NOISE_LABEL
+pay debt course action best __NUMBER__ aggressively want -> NOISE_LABEL
+money way school months best hustle __NUMBER__ make work get stuck -> NOISE_LABEL
+working hard work reward fast -> NOISE_LABEL
+money either time else everything free trash paid life corporation profits actually costs someone -> NOISE_LABEL
+worth money businesses services sell steal hope goods work others companies stealing -> NOISE_LABEL
+robinhood share free get join stock -> NOISE_LABEL
+__NUMBER__ wanted advice bulk properly slow cut -> progresspics
+
+*** Cluster 3 ***
+things money perspective everything almost controlled put -> NOISE_LABEL
+friends tougher graduate time say sucks explore life graduating fun take people older college b live make work c hs party -> NOISE_LABEL
+new canon sudden theory becomes favorite said fan character -> NOISE_LABEL
+new shape variants inventing adding whether ingredient days candy essentially size -> NOISE_LABEL
+measure many financial neighborhood life come treaters success trick -> NOISE_LABEL
+plans schools needs children special support headteachers budget speak raid -> NOISE_LABEL
+senate read desc -> NOISE_LABEL
+new called term revolver main chamber revolving put take one reloading -> NOISE_LABEL
+hospital improved rooms poole donation two thanks important vital -> NOISE_LABEL
+ahead wifi date month trick changed two system actually least nearby -> ios
+
+*** Cluster 4 ***
+activated create salt ink scientists invisible -> NOISE_LABEL
+keep eating way perfect -> NOISE_LABEL
+deteriorating hug health months could sucks disorder selfie mental use bipolar first taken -> NOISE_LABEL
+use avail coupons offers flight -> coupons
+pipe electric got tape exhaust use car company insulation -> NOISE_LABEL
+shield people around make carried sense knife protection rather -> NOISE_LABEL
+salt food may curb cravings unhealthy spicy -> NOISE_LABEL
+dreams ideas forgot -> NOISE_LABEL
+every food chocolate nearly ketchup go world -> NOISE_LABEL
+people full many visitors notice commenting slow __NUMBER__ make chocolate left candy bars rain size -> NOISE_LABEL
+
+*** Cluster 5 ***
+tying roof old wisconsin year accused son pool __NUMBER__ plastic minivan mom -> NOISE_LABEL
+york new called ago attacked ufos force years __NUMBER__ air -> NOISE_LABEL
+york new drunk living openly suspect claims attack gay remember man -> NOISE_LABEL
+oral allegedly sex performed woman delta man flight -> NOISE_LABEL
+visa report diversity entered end u terror wants suspect foreign trump nyc -> NOISE_LABEL
+muslims christians muslim delivers man christian asks situation -> NOISE_LABEL
+boys __NUMBER__ rape hollywood good yes actors -> NOISE_LABEL
+nyt imagine weapon terrorist columnist toll nyc death assault -> NOISE_LABEL
+murdering grandparents area __NUMBER__ charged november man montreal -> NOISE_LABEL
+dnc males straight want recruit official white says cisgender -> NOISE_LABEL
+
+*** Cluster 6 ***
+textbook used found -> NOISE_LABEL
+dead ship vietnam talented paid cruise tributes found -> NOISE_LABEL
+graveyard coin found old -> NOISE_LABEL
+managed octopus squid cartridge ink fill work would -> NOISE_LABEL
+find kind name trying -> NOISE_LABEL
+know yeah left packs wearing fanny hat -> NOISE_LABEL
+saudi humanoid giving local robot women citizen arabia made rights sophia -> NOISE_LABEL
+canadian nipple found lake wilderness rock made -> NOISE_LABEL,NOISE_LABEL
+task right c8 work choice -> flashlight
+little made shawl sister -> NOISE_LABEL
+
+*** Cluster 7 ***
+__NUMBER__ minute played games ps4 pc -> gamingsuggestions
+new capital game zealand show pick __NUMBER__ failing australians lose -> NOISE_LABEL
+vs win play wave problem easy well clear matter qm one low -> NOISE_LABEL
+__NUMBER__ board games gaming form -> NOISE_LABEL
+flat enjoy game play win -> NOISE_LABEL
+play little proud -> NOISE_LABEL
+pick time sports -> NOISE_LABEL
+current packs difficult -> NOISE_LABEL
+series game getting sorry __NUMBER__ houston deserves world -> NOISE_LABEL
+current feedback give looking drama crime bit script someone -> NOISE_LABEL
+
+*** Cluster 8 ***
+haunted us halloween care __NUMBER__ lots package treats win -> giveaways
+__NUMBER__ ww tablet win fire -> giveaways
+count strong us __NUMBER__ trash hefty win bags -> giveaways
+orders thru us buy toner __NUMBER__ cartridges valid get -> coupons
+win card us __NUMBER__ winners gift enter ca amazon -> giveaways
+arv __NUMBER__ bundle special october us -> giveaways
+__NUMBER__ queen mattress us size -> giveaways
+value snowboards us prize com __NUMBER__ total dakine pair skis win -> giveaways
+starter trans communist pack -> NOISE_LABEL
+skin us giveaway care arv __NUMBER__ com gift win set elemis -> giveaways
+
+*** Cluster 9 ***
+boy leopard girls seen present cat halloween -> NOISE_LABEL
+masks bank costumes made clown halloween -> NOISE_LABEL
+costume bombadil tom year -> NOISE_LABEL
+usually kids family means fun -> NOISE_LABEL
+appeared wild took handed nephews treating free adults car beer trick -> NOISE_LABEL
+haul go tonight bed halloween child raiding without candy parent -> NOISE_LABEL
+little nothing drugs time worst liquid latex halloween sick fix first -> NOISE_LABEL
+treat always mounds halloween favorite feel nut like -> NOISE_LABEL
+houses participate always creepier halloween -> NOISE_LABEL
+starburst know got halloween anyone bag candy skittles would -> NOISE_LABEL
+
+*** Cluster 10 ***
+capable called talks thinking someone -> NOISE_LABEL
+adult suing version basically -> NOISE_LABEL
+got lift reason us gym shook hand awkward gave town someone -> NOISE_LABEL
+avenge death must -> NOISE_LABEL
+shared born remembered experience none us -> NOISE_LABEL
+got give hand thing wit hands search life want dip anybody serbia ever website know pinch friend strongest get gave used mine -> NOISE_LABEL
+different chilling chillin -> NOISE_LABEL
+unranked allowed teammate draft hero want hl reason whatever -> NOISE_LABEL
+got table hit cover smackdown face dumbass live ama -> NOISE_LABEL
+erratic drive bmw caught cctv operators spot student drink -> NOISE_LABEL
+

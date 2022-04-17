@@ -1,0 +1,120 @@
+Data set size 200
+
+Clustering time for pseudodpmeans 
+
+5.078047752380371
+
+Data set size 200
+
+Clustering time for FANATIC 
+
+5.152070999145508
+
+Data set size 500
+
+Clustering time for pseudodpmeans 
+
+5.627376079559326
+
+Data set size 500
+
+Clustering time for FANATIC 
+
+6.026660442352295
+
+Data set size 1000
+
+Clustering time for pseudodpmeans 
+
+6.724249601364136
+
+Data set size 1000
+
+Clustering time for FANATIC 
+
+7.42022442817688
+
+Data set size 1500
+
+Clustering time for pseudodpmeans 
+
+7.9050328731536865
+
+Data set size 1500
+
+Clustering time for FANATIC 
+
+8.525450706481934
+
+Data set size 2000
+
+Clustering time for pseudodpmeans 
+
+9.136680126190186
+
+Data set size 2000
+
+Clustering time for FANATIC 
+
+10.377572774887085
+
+Data set size 5000
+
+Clustering time for pseudodpmeans 
+
+16.438420057296753
+
+Data set size 5000
+
+Clustering time for FANATIC 
+
+17.613808631896973
+
+Data set size 10000
+
+Clustering time for pseudodpmeans 
+
+30.38797354698181
+
+Data set size 10000
+
+Clustering time for FANATIC 
+
+29.514419317245483
+
+Data set size 20000
+
+Clustering time for pseudodpmeans 
+
+59.13614296913147
+
+Data set size 20000
+
+Clustering time for FANATIC 
+
+61.937007665634155
+
+Data set size 30000
+
+Clustering time for pseudodpmeans 
+
+91.37198066711426
+
+Data set size 30000
+
+Clustering time for FANATIC 
+
+105.47823071479797
+
+Data set size None
+
+Clustering time for pseudodpmeans 
+
+969.5128185749054
+
+Data set size None
+
+Clustering time for FANATIC 
+
+674.9113683700562
+
