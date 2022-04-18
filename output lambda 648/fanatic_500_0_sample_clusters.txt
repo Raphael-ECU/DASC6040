@@ -1,0 +1,12 @@
+*** Cluster 0 ***
+looking amazon wife -> NOISE_LABEL
+top instead meat taking skeletons dress humans put -> NOISE_LABEL
+everything perhaps fraud actually crap law true imposter syndrome feeling __NUMBER__ nagging exposed disorder -> NOISE_LABEL,NOISE_LABEL
+f much changed pictures lbs months side __NUMBER__ looked realize two lost -> progresspics
+throwing fell toilet wtf girl r __NUMBER__ festival -> NOISE_LABEL
+live living dying die -> NOISE_LABEL,NOISE_LABEL
+f much changed gt realized months side __NUMBER__ looked pictures -> progresspics
+taken take job since scariest remember long happen time let team halloween getting second thing -> NOISE_LABEL
+ink fill would work squid cartridge managed octopus -> NOISE_LABEL
+money nothing else echo randomly playing start amazon anyone -> NOISE_LABEL
+

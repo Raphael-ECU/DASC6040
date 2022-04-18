@@ -1,0 +1,63 @@
+[HYPERS]
+clustering_lambda = 0.648
+token_probability_threshold = 0.0128
+max_num_clusters = 50
+distance_metric = cosine
+min_cluster_size = 50
+merge_close_clusters_max_iterations = 1
+merge_close_clusters_lambda_fraction = 0.412
+max_clustering_time = 7200
+batch_size = 150000
+algorithm = <class 'fanatic.clustering.fanatic.FanaticClusterModel'>
+
+[GENERAL_ARGS]
+data_files = ['data/RS_2017-11.zst']
+num_docs_read = None
+subreddit_labels_file = data/subreddit_labels.json
+subreddit_noise_percentage = 0.5
+seed_data_subsample = 42
+embedding_model_file = data/w2v_reddit_s300_w5_sg1_RS_2017-11.txt
+min_valid_tokens = 3
+clustering_lambda = 0.648
+token_probability_threshold = 0.0128
+distance_metric = cosine
+max_num_clusters = 50
+min_cluster_size = 50
+merge_close_clusters_max_iterations = 1
+merge_close_clusters_lambda_fraction = 0.412
+max_clustering_time = 7200
+batch_size = 150000
+num_clustering_seed_jobs = 1
+clustering_seed = 42
+output_dir = output
+flag_save_clusteringmodel = False
+job_seeds = [15795]
+
+[CLUSTER_STATS]
+cluster_time = {'mean': 13.215549945831299, 'std': 0.0}
+total_number_of_clusters = {'mean': 34.0, 'std': 0.0}
+cluster_size_quartile_min = {'mean': 54.0, 'std': 0.0}
+cluster_size_quartile_q1 = {'mean': 70.0, 'std': 0.0}
+cluster_size_quartile_median = {'mean': 90.0, 'std': 0.0}
+cluster_size_quartile_q3 = {'mean': 146.0, 'std': 0.0}
+cluster_size_quartile_max = {'mean': 419.0, 'std': 0.0}
+num_total_documents = {'mean': 4739.0, 'std': 0.0}
+num_coherent_labels = {'mean': 969.0, 'std': 0.0}
+coherent_labels_fraction = {'mean': 0.204473517619751, 'std': 0.0}
+num_docs_clustered = {'mean': 4330.0, 'std': 0.0}
+docs_clustered_fraction = {'mean': 0.9136948723359358, 'std': 0.0}
+num_tp = {'mean': 923.0, 'std': 0.0}
+tp_fraction = {'mean': 0.19476682844481957, 'std': 0.0}
+num_fp = {'mean': 3407.0, 'std': 0.0}
+fp_fraction = {'mean': 0.7189280438911163, 'std': 0.0}
+num_tn = {'mean': 363.0, 'std': 0.0}
+tn_fraction = {'mean': 0.07659843848913273, 'std': 0.0}
+num_fn = {'mean': 46.0, 'std': 0.0}
+fn_fraction = {'mean': 0.00970668917493142, 'std': 0.0}
+pseudo_precision = {'mean': 0.21316397228637413, 'std': 0.0}
+pseudo_recall = {'mean': 0.9525283797729618, 'std': 0.0}
+pseudo_f1 = {'mean': 0.348367616531421, 'std': 0.0}
+
+[METRICS]
+ami = {'mean': 0.215339336446994, 'std': 0.0}
+

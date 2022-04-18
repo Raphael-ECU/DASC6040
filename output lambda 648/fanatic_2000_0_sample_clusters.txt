@@ -1,0 +1,120 @@
+*** Cluster 0 ***
+kingdom arranged greater london req __NUMBER__ united pre -> borrow
+__NUMBER__ play afl allen anywhere draft oscar -> NOISE_LABEL
+station __NUMBER__ flip fm memphis switch first -> christmas
+f yrs years gt lbs apart __NUMBER__ face exactly progress -> progresspics
+usd patch __NUMBER__ crosby w size -> NOISE_LABEL
+maxing week challenge contributions retirement __NUMBER__ method ira -> NOISE_LABEL
+bc canada interac req transfer __NUMBER__ nov victoria e paypal -> borrow
+__NUMBER__ law scraping strikes -> NOISE_LABEL
+usa creddit req __NUMBER__ good york paypal new ny -> borrow
+holidays july __NUMBER__ us national november -> NOISE_LABEL
+
+*** Cluster 1 ***
+halloween schools celebrations banning -> NOISE_LABEL
+night shopping wait costco halloween -> NOISE_LABEL
+busy bee halloween -> NOISE_LABEL
+regular basically sized candy halloween preview -> NOISE_LABEL
+dead trick treating tradition -> NOISE_LABEL
+halloween instead jerseys day candy mail get -> NOISE_LABEL
+blades razor take candy go excuse parents good checking -> NOISE_LABEL
+already fashion famous reason halloween really -> NOISE_LABEL
+movies love finally scary halloween holiday glad -> NOISE_LABEL
+literally every day work retail -> NOISE_LABEL
+
+*** Cluster 2 ***
+american know good learn websites read write -> NOISE_LABEL
+would threat long cooler treat trick e sound -> NOISE_LABEL
+people could shows make tv told parents see promise lying fingers cross us visually keep -> NOISE_LABEL
+things happen bad -> NOISE_LABEL
+used tell like usb end micro hdmi female adapter large cord looks one anyone -> NOISE_LABEL
+feel earthquake anyone -> NOISE_LABEL
+people cacti person multiple cactus us one means -> NOISE_LABEL
+could arrest take letting evasion going though saying fucking college fund half even money like actually daughters matters honestly tax stupid shit government something -> NOISE_LABEL
+people significantly generally power developed suits recently theory -> NOISE_LABEL,NOISE_LABEL
+dead trick treating appears -> NOISE_LABEL
+
+*** Cluster 3 ***
+movies used askreddit watched vin amazing diesel blown __NUMBER__ xxx find terrible last night later came away awful enjoyed starring movie really think -> NOISE_LABEL
+pick builds good started -> NOISE_LABEL
+album like obligatory listen hear song kill whenever -> NOISE_LABEL
+movies someone scratch sniff horror see killer butt hand never nose unrealistic pick watching outside window -> NOISE_LABEL
+like looks dustin stranger things andy -> NOISE_LABEL
+men star apologize victims thrones sexism saying game forced -> NOISE_LABEL,NOISE_LABEL,NOISE_LABEL
+production film finished would student love __NUMBER__ pages two feedback starts weeks screenplay first -> NOISE_LABEL
+multiverse like morty guy parody family episode looks rick time today road -> NOISE_LABEL
+women easier men find talk -> NOISE_LABEL
+anime like dead highschool -> Animesuggest
+
+*** Cluster 4 ***
+nyc isis truck sources attack said __NUMBER__ committed suspect november -> NOISE_LABEL
+like interference suspected rework worried dui herald rift foreign democracy driver -> NOISE_LABEL
+lawyer receive ambiguous request asked suspect advice dog legal -> NOISE_LABEL
+josh shakes blocks york new terror scene attack singer -> NOISE_LABEL
+pisses terrorist attack city __NUMBER__ york new november -> NOISE_LABEL
+people court __NUMBER__ appeared dock bournemouth -> NOISE_LABEL
+partner says instead pinched girlfriend anyone boyfriend -> NOISE_LABEL
+wore remember opie -> NOISE_LABEL
+says lawyer asks dawg suspect judge dog asked -> NOISE_LABEL,NOISE_LABEL,NOISE_LABEL
+ny nyc allegedly u terrorist democrat senator chuck diversity visa program entered schumer -> NOISE_LABEL
+
+*** Cluster 5 ***
+named know whether one mount mountain -> NOISE_LABEL
+mt hood thought national forest bird hole found front house oregon first -> NOISE_LABEL
+relocating life starting new -> NOISE_LABEL
+made recommendations well documentary -> MovieSuggestions
+used picture golden catholic posting alter called wall link behind referring church computer -> NOISE_LABEL
+rock made nipple lake canadian found wilderness -> NOISE_LABEL,NOISE_LABEL
+oscars next awkward -> NOISE_LABEL
+muslim beard name big box truck store rent going awkward sport -> NOISE_LABEL
+cool customized ever hockey mcdonagh jersey away first -> NOISE_LABEL
+used textbook found -> NOISE_LABEL
+
+*** Cluster 6 ***
+__NUMBER__ year taxes work looking see old -> NOISE_LABEL
+buyer time financed car first -> NOISE_LABEL
+sideways psa go flags car -> NOISE_LABEL
+help gravitational locate nasa turns sources waves lobsters -> NOISE_LABEL
+square sure really make tool -> NOISE_LABEL
+worth money owe car -> NOISE_LABEL
+__NUMBER__ regarding us bonds stocks advice seeking -> NOISE_LABEL
+way webpage simple free make -> NOISE_LABEL
+could ditches would work bitcoin mess country economy bit takes currency -> NOISE_LABEL
+management elements rpg auto combat looking game -> gamingsuggestions
+
+*** Cluster 7 ***
+cash __NUMBER__ us -> giveaways
+pro __NUMBER__ revolution ps4 controller win -> giveaways
+__NUMBER__ us years total month win two -> giveaways
+chance outfitters grizzly card woodbury enter cooler __NUMBER__ us gift tan win -> giveaways
+live days giveaways december ellen enter see california __NUMBER__ us win tickets -> giveaways
+kindle __NUMBER__ fire giveaway ww -> giveaways
+__NUMBER__ air win macbook ww -> giveaways,giveaways
+subscription __NUMBER__ year win ww -> giveaways
+shoes __NUMBER__ athleisure pack ultimate win giftcards -> giveaways
+chance enter echo dot prizes __NUMBER__ us win several -> giveaways
+
+*** Cluster 8 ***
+__NUMBER__ hd trailer thriller official movie playground -> MovieSuggestions
+movie __NUMBER__ trailer mahesh spider new babu -> MovieSuggestions
+ball block cobblestone slime -> NOISE_LABEL
+professor batchelor john russians show -> ThePodcastFeed
+batchelor podesta show tony manafort following john indictment thadmccotter -> ThePodcastFeed
+ransomware dark souls files beat makes -> NOISE_LABEL
+bullshit world man vs -> NOISE_LABEL
+movie indian त dialogue gst स controversy bjp south क ज -> MovieSuggestions
+throwing punches strongest character man punch without one beat mcu -> NOISE_LABEL
+finn link vs -> NOISE_LABEL
+
+*** Cluster 9 ***
+mobile phone maintenance -> url
+ios __NUMBER__ roll camera order -> ios
+everything compared small else games pc -> gamingsuggestions
+work boxes programmable music -> NOISE_LABEL
+current sale good steam games -> gamingsuggestions
+commands __NUMBER__ gui version -> NOISE_LABEL
+life video real mini games -> NOISE_LABEL,NOISE_LABEL
+becomes needing force restart home __NUMBER__ unresponsive entire bug screen fixed device -> ios
+take updates app install long download -> ios
+tagging support still ios __NUMBER__ photos app keyword -> ios
+

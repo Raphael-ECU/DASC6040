@@ -1,0 +1,72 @@
+*** Cluster 0 ***
+channel mascot nightmares __NUMBER__ haunt going new thing -> NOISE_LABEL
+people __NUMBER__ smoke movie theatres allow -> NOISE_LABEL
+throwing fell toilet wtf girl r __NUMBER__ festival -> NOISE_LABEL
+holidays july __NUMBER__ us national november -> NOISE_LABEL
+__NUMBER__ get someone -> NOISE_LABEL
+__NUMBER__ press releases end -> NOISE_LABEL
+use __NUMBER__ left checkout -> giveaways
+less work go hours spend __NUMBER__ time productive -> NOISE_LABEL
+__NUMBER__ play bug pause beta -> ios
+contacted person university work support center us belongs definitely -> NOISE_LABEL
+
+*** Cluster 1 ***
+everyone celebrate reason halloween else -> NOISE_LABEL
+fags lick blues list __NUMBER__ singing z balls -> NOISE_LABEL
+costume tom year bombadil -> NOISE_LABEL
+treating less halloween trick kids r -> NOISE_LABEL
+till like smoke meth __NUMBER__ sleeps christmas unless -> NOISE_LABEL
+night turn demons lights order ghouls ghosts away halloween keep -> NOISE_LABEL
+people candy say give treat reason trick started kids -> NOISE_LABEL
+meth trick getting kid -> NOISE_LABEL
+candy go raiding haul parent without tonight child halloween bed -> NOISE_LABEL
+dark treating end trick kid started -> NOISE_LABEL
+
+*** Cluster 2 ***
+seemingly offer good job true -> NOISE_LABEL
+social https small make anxiety co talk -> NOISE_LABEL
+called co https -> NOISE_LABEL
+quit due back external employee __NUMBER__ wants issues hire old transition contract compensation years job corp consultant -> NOISE_LABEL
+help deciding offer accept job need -> NOISE_LABEL
+life like look policy insurance -> NOISE_LABEL
+physical get says -> NOISE_LABEL
+continue money starting vacation quit blow job working penny afford school save every medical august -> NOISE_LABEL
+increase price regal -> NOISE_LABEL
+really simple looking budgeting tool -> NOISE_LABEL
+
+*** Cluster 3 ***
+cut fell way wrapper candy -> NOISE_LABEL
+quite describe cat physical dog differences difficult -> NOISE_LABEL
+someone bus get making time fare feel getting -> NOISE_LABEL
+people vodka say reaction wine thinks cheap anything fine nobody -> NOISE_LABEL
+kind trying find name -> NOISE_LABEL
+high life satisfied person depressed feel escapism -> NOISE_LABEL
+people matter job seems remember bodies hard sometimes -> NOISE_LABEL
+people ahead space trying take handicapped parked parking line long butt illegally probably -> NOISE_LABEL
+vest bullet would proof need -> NOISE_LABEL
+live neighborhood treating way hot moms find great taking trick kids -> NOISE_LABEL
+
+*** Cluster 4 ***
+sjws got reason elected trump biggest -> NOISE_LABEL
+cr drives one alright v guys -> NOISE_LABEL
+helpful would online savings method -> NOISE_LABEL
+tell mug much anyway friends see boyfriend -> NOISE_LABEL
+rich dad robert book poor opinions groups -> NOISE_LABEL
+students help actually textbooks comedians read write -> NOISE_LABEL
+people could everything ideas passed back well grandfather one asked ask several workshop like box found made away built front think -> NOISE_LABEL
+jersey moon full satisfied experience first -> NOISE_LABEL
+drama genre one youtube -> NOISE_LABEL
+ending offered bank happy blood totally quota meet -> NOISE_LABEL
+
+*** Cluster 5 ***
+candies __NUMBER__ arrived ultimate halloween guide annual -> NOISE_LABEL
+__NUMBER__ fire win ww tablet -> giveaways
+arv awesome __NUMBER__ bag us duffle leather -> giveaways
+__NUMBER__ stroller us plus flex value giveaway -> giveaways
+ends fear edition days horror popular masterpiece pc __NUMBER__ inc dlc win game ww layers -> giveaways
+cars nintendo switch __NUMBER__ win game ww driven -> giveaways
+itunes card ipad including __NUMBER__ dream packs gift pacha win prize pack -> giveaways,giveaways
+__NUMBER__ win coins -> giveaways
+duty __NUMBER__ us call giveaway wwii pc -> giveaways
+flannel winners choice micro electric size blanket __NUMBER__ us color win -> giveaways
+
