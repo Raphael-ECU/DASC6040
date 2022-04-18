@@ -1,0 +1,84 @@
+*** Cluster 0 ***
+christmas devoted year __NUMBER__ -> NOISE_LABEL
+time job __NUMBER__ starting us full please check months critique -> NOISE_LABEL
+mean november eve today hallow day __NUMBER__ -> NOISE_LABEL
+__NUMBER__ month january stores go faster winter post cold christmas would extra spend -> NOISE_LABEL
+remain going years classified occurred current could documents relations say __NUMBER__ damage jfk international incident ago -> NOISE_LABEL
+invest possibly __NUMBER__ looking freshman old college -> NOISE_LABEL
+__NUMBER__ october four sealed indictments court mueller shows done daily federal wire -> NOISE_LABEL
+patrice torch __NUMBER__ carrying people -> NOISE_LABEL
+pick __NUMBER__ company account option roth different investment okay amp ira -> NOISE_LABEL
+taken june __NUMBER__ somewhere shortly quake -> NOISE_LABEL
+
+*** Cluster 1 ***
+salt __NUMBER__ worth instant ocean -> NOISE_LABEL
+mouse ending gaming soon __NUMBER__ win cobra -> giveaways
+winners losers trade deadline nfl -> NOISE_LABEL
+world night disney passes package includes __NUMBER__ park us hopper family walt stay hotel win -> giveaways
+arv skin care __NUMBER__ us set elemis gift giveaway com win -> giveaways
+__NUMBER__ enter us echo several dot prizes win chance -> giveaways
+activity __NUMBER__ ww cigarette halloween giveaway bestek lighter win splitter -> giveaways
+weekend gear __NUMBER__ us ends menswear win -> giveaways
+contest __NUMBER__ dressed go work november halloween retroactively costume pokemon win -> NOISE_LABEL
+orders __NUMBER__ us thru get buy cartridges valid toner -> coupons
+
+*** Cluster 2 ***
+right campus alt poster college -> NOISE_LABEL
+life new died never scared stunts -> NOISE_LABEL
+use around realize mostly everything suggests right left handed people -> NOISE_LABEL
+someone talks thinking capable called -> NOISE_LABEL
+life ck trying live genderfluid family plan explain bobs future -> NOISE_LABEL
+job fired guilty innocent proven allegations point get wtf someone enough happened -> NOISE_LABEL
+debt steps ever live anyone apply get stay results read -> NOISE_LABEL
+thinking someone good rejection form -> NOISE_LABEL
+socially superior black people become since -> NOISE_LABEL
+less blacklisted sexual get still horrible good assault come would time normally something celebrity clean bad enough -> NOISE_LABEL
+
+*** Cluster 3 ***
+dnc white straight recruit cisgender males official says want -> NOISE_LABEL
+john based immigration grow show us skills economy larry_kudlow batchelor -> ThePodcastFeed
+john professor batchelor show russians -> ThePodcastFeed
+supporters loyal know trump people -> NOISE_LABEL
+imagine terrorist death weapon nyc nyt toll assault columnist -> NOISE_LABEL
+traveled __NUMBER__ name passports november phone registered china fake manafort -> NOISE_LABEL
+terror pat culture trump war -> NOISE_LABEL
+visa came schumer diversity terrorist __NUMBER__ us nyc sponsored ny november chuck program democrat -> NOISE_LABEL
+benefits salary offer accepting negotiating -> NOISE_LABEL
+john london attack show berlin nyc isis nice sebgorka batchelor barcelona resembles -> ThePodcastFeed
+
+*** Cluster 4 ***
+night cookies sell scouts girl halloween involved would everyone win -> NOISE_LABEL
+halloween work got wear stay costume pajamas -> NOISE_LABEL
+halloween cosplay global day -> NOISE_LABEL
+lol keeping work halloween packing shift sane hammers -> NOISE_LABEL
+halloween made well stars anyway sweater -> NOISE_LABEL
+dead treating trick tradition -> NOISE_LABEL
+pretty adult going bunch jobs dressing much halloween people -> NOISE_LABEL
+halloween inner good child everyone hope amp -> NOISE_LABEL
+made night care making asking great dogs memories masks door kid random coming people candy lot adult although freak -> NOISE_LABEL
+turned porch day halloween front forgotten one light -> NOISE_LABEL
+
+*** Cluster 5 ***
+order call going uber phone kids weird explain number -> NOISE_LABEL
+recommendations made documentary well -> MovieSuggestions
+money start echo anyone amazon randomly playing else nothing -> NOISE_LABEL
+got belongs glad hope meet -> NOISE_LABEL
+packs yeah wearing left fanny hat know -> NOISE_LABEL
+videos watched like feel old shit -> NOISE_LABEL
+time says zone calls amazon hq biggest disadvantage coming denver chances state -> NOISE_LABEL
+viewing saw went shining history -> NOISE_LABEL
+ya comedy boom supernatural adventure duuuuude guys action got allergies oriental know -> NOISE_LABEL
+opie remember wore -> NOISE_LABEL
+
+*** Cluster 6 ***
+exist happier smartphones probably -> NOISE_LABEL
+victims locked research uk detention sexual centres women still refugee shows assault -> NOISE_LABEL
+weinstein record movie harvey helping duffy guys deal hollywood destroy career posting documentary troy -> NOISE_LABEL
+person true insults __NUMBER__ teacher seconds happen mind compliments hours last said -> NOISE_LABEL
+airbnb modern strangers school lessons deal things uber talk like elementary -> NOISE_LABEL
+guy harassing old years -> NOISE_LABEL
+person legit allegation trying cash star sexual assault accusing think famous every seems day new like -> NOISE_LABEL
+white island men homophobes __NUMBER__ supremacists racist pedophiles card carrying long -> NOISE_LABEL
+times showers sex waist -> NOISE_LABEL
+women filters snapchat face everywhere -> NOISE_LABEL
+

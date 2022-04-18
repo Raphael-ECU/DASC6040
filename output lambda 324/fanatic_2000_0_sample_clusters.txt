@@ -1,0 +1,96 @@
+*** Cluster 0 ***
+million __NUMBER__ ever project planted largest trees -> NOISE_LABEL
+babies celebrated __NUMBER__ birthed rather mother day though months develop started even -> NOISE_LABEL
+work year __NUMBER__ taxes looking old see -> NOISE_LABEL
+industries multi humble __NUMBER__ product india beginning grown ahmedabad organization city -> NOISE_LABEL
+waitrose foods __NUMBER__ eating according -> NOISE_LABEL
+november __NUMBER__ daily random discussion mind -> NOISE_LABEL
+interested year __NUMBER__ old scared irs -> NOISE_LABEL
+worldwide secretive nuclear __NUMBER__ us launches oct war drill -> NOISE_LABEL
+taken june __NUMBER__ somewhere shortly quake -> NOISE_LABEL
+ga class recruiting qb __NUMBER__ son future -> NOISE_LABEL
+
+*** Cluster 1 ***
+individually notes name scale musical never sing always -> NOISE_LABEL
+life depressed person satisfied high escapism feel -> NOISE_LABEL
+takes say bad __NUMBER__ note photos people -> Xiaomi
+means person cactus multiple us cacti one people -> NOISE_LABEL
+like math calculators -> NOISE_LABEL
+even guys fit develop boobs -> NOISE_LABEL
+mean could phrase easier hard get really easy -> NOISE_LABEL
+sewer accidentally roof tall side cages inches couple drop stuff people -> NOISE_LABEL
+use whenever years something news scientists discover see usually really discovery future -> NOISE_LABEL
+oil really companies things regard without planet -> NOISE_LABEL
+
+*** Cluster 2 ***
+job years issues compensation old hire corp employee back external consultant __NUMBER__ wants quit contract transition due -> NOISE_LABEL
+__NUMBER__ son congressman funds blames steam campaign games spending -> NOISE_LABEL
+hello recommendations years __NUMBER__ start looking old investing sum employed self -> NOISE_LABEL
+bank online __NUMBER__ ally apy savings increases -> NOISE_LABEL
+get share robinhood join free stock -> NOISE_LABEL
+person student loans another taxes claiming pharmacy residency -> NOISE_LABEL
+help need __NUMBER__ echo launched toy appeal child dorset -> NOISE_LABEL
+please explain interest -> NOISE_LABEL
+money investment online make without -> NOISE_LABEL
+paying cards satisfying going swiping credit go motion card extinct chip -> NOISE_LABEL
+
+*** Cluster 3 ***
+life trait game every video pretend work max -> NOISE_LABEL
+nearby ahead least date month two actually system changed trick wifi -> ios
+hospital vital improved two donation important poole thanks rooms -> NOISE_LABEL
+main chamber reloading take new revolving one called put term revolver -> NOISE_LABEL
+testing weapons sentence start chemical death children affect humans learn diseases actually -> NOISE_LABEL
+takes country could bit currency bitcoin economy work ditches mess would -> NOISE_LABEL
+money success demo force digital big one unstoppable -> NOISE_LABEL
+take check test long background drug -> NOISE_LABEL
+disappeared new theory evolved never dragons -> NOISE_LABEL
+threat cooler e treat would sound long trick -> NOISE_LABEL
+
+*** Cluster 4 ***
+person true insults __NUMBER__ teacher seconds happen mind compliments hours last said -> NOISE_LABEL
+discovered alt porn -> NOISE_LABEL
+airbnb modern strangers school lessons deal things uber talk like elementary -> NOISE_LABEL
+know sex toy -> NOISE_LABEL
+spacey still actor damn good kevin -> NOISE_LABEL
+forward years __NUMBER__ anthony roman wait rapp really spacey molested come kevin reigns -> NOISE_LABEL
+meme spoilers cards shit becoming spacey house bad kevin -> NOISE_LABEL
+common member spread gay female bands boy speculate fans rumours particular -> NOISE_LABEL
+feeling true syndrome __NUMBER__ fraud perhaps disorder crap exposed everything law imposter nagging actually -> NOISE_LABEL,NOISE_LABEL
+defense weinstein harvey gay allegedly quite saying spacey cut kevin like -> NOISE_LABEL
+
+*** Cluster 5 ***
+terror suspect truck attack uber driver -> NOISE_LABEL
+accent say l spanish llama -> NOISE_LABEL
+muted articles terrorist mention news akbar york new r islamic got yelled allahu removing asked -> NOISE_LABEL
+delta performed sex allegedly woman flight man oral -> NOISE_LABEL
+attacked years __NUMBER__ force ufos york new called air ago -> NOISE_LABEL
+pasta hour insults police girlfriend six boyfriend standoff -> NOISE_LABEL
+drive involved police sunnyvale officer shooting -> NOISE_LABEL
+suspect __NUMBER__ attack nyc truck isis november committed sources said -> NOISE_LABEL
+refused beach __NUMBER__ huts hotel beneath swanage plans -> NOISE_LABEL
+white powerful prof among nuclear forces supremacy allegedly family supporting says -> NOISE_LABEL
+
+*** Cluster 6 ***
+pretty adult going bunch jobs dressing much halloween people -> NOISE_LABEL
+lime burien great halloween decor bikes spotted make -> NOISE_LABEL
+came maid mode havent girl full halloween outfit okay -> NOISE_LABEL
+favorite __NUMBER__ day halloween goes nov candy sale -> NOISE_LABEL
+halloween cosplaying holiday -> NOISE_LABEL
+happy halloween got done today neighbour christ -> NOISE_LABEL
+bun halloween husband characters went year bullseye man story toy hat showcase -> NOISE_LABEL
+teach strangers besides halloween take year kids candy -> NOISE_LABEL
+day halloween strangers take year kids one candy taught -> NOISE_LABEL
+halloween laugh skeleton edition laughs anytime -> NOISE_LABEL
+
+*** Cluster 7 ***
+pistol __NUMBER__ extras us cool -> giveaways
+subscription year ww win __NUMBER__ -> giveaways
+fire tablet ww win __NUMBER__ -> giveaways
+fire __NUMBER__ ww books tablet fantasy win kindle -> giveaways
+controller ps4 __NUMBER__ win revolution pro -> giveaways
+treats care package __NUMBER__ us lots halloween haunted win -> giveaways
+arv bundle special __NUMBER__ october us -> giveaways
+classic retro snes giveaway maker super __NUMBER__ -> giveaways
+activity __NUMBER__ ww cigarette halloween giveaway bestek lighter win splitter -> giveaways
+arv watch __NUMBER__ blaze fitness fitbit smart win -> giveaways
+
