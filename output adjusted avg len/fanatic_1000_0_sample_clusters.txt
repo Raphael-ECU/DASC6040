@@ -1,0 +1,60 @@
+*** Cluster 0 ***
+note say bad takes photos __NUMBER__ people -> Xiaomi
+shows told parents visually see fingers people us promise lying could tv cross keep make -> NOISE_LABEL
+busier much life wish adult busy free time made either -> NOISE_LABEL
+means multiple one people us cacti person cactus -> NOISE_LABEL
+scots accent sounds like write really -> NOISE_LABEL
+would relations public hate home head evening depot -> NOISE_LABEL
+r empty __NUMBER__ showerthoughts jerk candy trick put took treaters avoid assume please could take wanted people one buy bowl everyone -> NOISE_LABEL
+fish know like wild always majority recognize land almost eat look animals -> NOISE_LABEL
+war would happened people exist never millions today world ii -> NOISE_LABEL
+would helpful method online savings -> NOISE_LABEL
+
+*** Cluster 1 ***
+seeing sumo wrestler kids costumes keep blue -> NOISE_LABEL
+finally halloween period use like starts feel cute dress enby excuse -> NOISE_LABEL
+halloween old life get time support candy decent physical kids rewards help -> NOISE_LABEL
+take halloween leftover hide vagina girlfriends jolly -> NOISE_LABEL
+halloween participate houses creepier always -> NOISE_LABEL
+sense love unless straight makes -> NOISE_LABEL
+normal witches asking coming stop candy bunch house ritual goblins sort -> NOISE_LABEL
+great halloween decor burien lime spotted bikes make -> NOISE_LABEL
+halloween paying adult like free people candy took buying years -> NOISE_LABEL
+halloween say wish wanted happy thanks -> NOISE_LABEL
+
+*** Cluster 2 ***
+pencil mi __NUMBER__ pad -> Xiaomi
+fire tablet ww win __NUMBER__ -> giveaways
+oil essential __NUMBER__ needs nation moms amp supplies find got giveaway -> NOISE_LABEL
+days enter live california giveaways december __NUMBER__ us win ellen tickets see -> giveaways
+win cases iphone __NUMBER__ amp -> giveaways
+tailgating cart including package __NUMBER__ orca cover grill gift win care gas steaks omaha prize card ultimate weber cooler kit -> giveaways
+october us __NUMBER__ bundle arv special -> giveaways
+foods whole ww win __NUMBER__ card gift -> giveaways
+duffle awesome bag leather __NUMBER__ us arv -> giveaways
+cool extras pistol __NUMBER__ us -> giveaways
+
+*** Cluster 3 ***
+soon used heard last panthers picked prices taking __NUMBER__ fanatics raise night equipment -> NOISE_LABEL
+teague stealing spotlight jeff talk thibs wolves -> StillBullsToMe
+days cal workout basketball months key lifting vs __NUMBER__ everyday diet gt weight created soccer -> progresspics
+breeds considering looking dogs wanted different wolves created crazy look animals could -> NOISE_LABEL
+beautiful looking fiji leather yellow today -> NOISE_LABEL
+trade gm simmons street talk bill deadline -> NOISE_LABEL
+torch carrying __NUMBER__ people patrice -> NOISE_LABEL
+season accurate ptsd __NUMBER__ seen portrayal ever stranger things screen -> NOISE_LABEL
+cages couple inches sewer tall people drop side accidentally roof stuff -> NOISE_LABEL
+experiences rv even sf woman living -> NOISE_LABEL
+
+*** Cluster 4 ***
+puzzle __NUMBER__ century working -> MathHelp
+live parents life finance __NUMBER__ need tips -> NOISE_LABEL
+booking hotel min __NUMBER__ flat -> coupons
+start focus __NUMBER__ ford engine -> Cartalk
+charging payments service card reoccurring bank cancel -> NOISE_LABEL
+women range products __NUMBER__ wide men home kids sale amp upto -> coupons
+may fares seats __NUMBER__ go trains -> NOISE_LABEL
+member unemployment states september __NUMBER__ rate eu -> NOISE_LABEL
+investment roth okay account __NUMBER__ company ira different pick option amp -> NOISE_LABEL
+faster christmas would cold extra __NUMBER__ spend january stores winter go post month -> NOISE_LABEL
+
